@@ -4,7 +4,7 @@
   "description": "Tweak React components in real time.",
   "main": "index.js",
   "dependencies": {
-    "react-hot-api": "^0.4.5",
+    "react-hot-api": "themouette/react-hot-api#bdb390e17845ebadd03420fc45c20069984f5feb",
     "source-map": "0.1.40"
   },
   "repository": {
